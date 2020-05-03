@@ -1,0 +1,46 @@
+.tbl{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(254, 255, 208);  
+    border: 1px solid black; 
+    margin: 10px;
+}
+.heading{
+    background-color: rgb(218, 255, 255);
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+}
+.btnd{
+    background-color: chartreuse;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 5px;
+    transition: .5s;
+}
+.btnd:hover{
+    transform: scale(1.2);
+    background-color: red;
+}
+.table {
+    width: 100%;   
+    
+        
+  }
+  
+.table, th, tr,td {
+    border: 1px solid black;
+    text-align: left;
+    height: 50px;
+    padding: 15px;    
+    border-collapse: collapse;
+    margin:10px;
+    
+}
+
+
+th{
+    font-weight: 200;
+    font-size: 20px;
+    background-color: rgb(206, 255, 147);
+}

@@ -1,0 +1,94 @@
+[
+    {
+        "SlNo" : 1, 
+        "name" :"Rice",
+        "image": "/Ponni-Rice-1kg-350x400.jpg",
+        "Quantity" : 1,
+        "Unit" : "kg",
+        "Department" : "Grocery-Cereals" ,
+        "Notes": "Ponni Rice"
+    },
+    {
+        "SlNo" : 2, 
+        "name" :" Cardamom",
+        "image": "/Cardamom.jpg",
+        "Quantity" : 100, 
+        "Unit" : "grams",
+        "Department" : "Grocery-Spices" ,
+        "Notes": "Highrange products"
+    },
+    {
+        "SlNo" : 3, 
+        "name" :"Sugar",
+        "image": "/sugar-1kg.jpg",
+        "Quantity" : 1,
+        "Unit" : "kg",
+        "Department" : "Grocery" ,
+        "Notes": "Supreme"
+    },
+    {
+        "SlNo" : 4, 
+        "name" :"Jaggery",
+        "image": "/Sharkkara-Jaggery.jpg",
+        "Quantity" : 1,
+        "Unit" : "kg",
+        "Department" : "Grocery" ,
+        "Notes": "Highrange products"
+    },
+    {
+        "SlNo" : 5, 
+        "name" :"Salt",
+        "image": "/Tata-Salt.jpg",
+        "Quantity" : 1, 
+        "Unit" : "kg",
+        "Department" : "Grocery" ,
+        "Notes": "Tata Salt"
+    },
+    {
+        "SlNo" : 6, 
+        "name" :"Green Gram",
+        "image": "/Greengram.jpg",
+        "Quantity" :1,
+        "Unit" : "kg",
+        "Department" : "Grocery-Pulses" ,
+        "Notes": "Highrange products"
+    },
+    {
+        "SlNo" : 7, 
+        "name" :"Tea Powder",
+        "image": "/Brooke-Bond-Red-Label-Dust.jpg",
+        "Quantity" :0.5, 
+        "Unit" : "kg",
+        "Department" : "Grocery-Aromatic Beverage" ,
+        "Notes": "Brooke Bond"
+    },
+    {
+        "SlNo" : 8, 
+        "name" :"Kidney beans",
+        "image": "/beans.jpg",
+        "Quantity" :  1, 
+        "Unit" : "kg",
+        "Department" : "Grocery-Pulses" ,
+        "Notes": "Highrange products"
+    },
+    {
+        "SlNo" : 9, 
+        "name" :"Coconut Oil",
+        "image": "/Kera-Coconut-Oil.jpg",
+        "Quantity" : 1,
+        "Unit" : "kg",
+        "Department" : "Grocery-Edible Oil" ,
+        "Notes": "Kera"
+    },
+    {
+        "SlNo" : 10, 
+        "name" :"Mustard seeds",
+        "image": "/Mustard-Seeds.jpg",
+        "Quantity" :  100, 
+        "Unit" : "grams",
+        "Department" : "Grocery" ,
+        "Notes": "Highrange products"
+    }
+    
+    
+]
