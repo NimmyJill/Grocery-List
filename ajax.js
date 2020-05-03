@@ -13,8 +13,7 @@ function ajax(){
                 $.each(data, function(key, value){
                 
                     output += '<tr><td>' + value.SlNo + '</td>';
-                    output += '<td>' + value.name+ '</td>';                    
-                    output += '<td> <img src=' + value.image + ' width="80" height="80"></img> </td>';
+                    output += '<td>' + value.name+ '<br> <img src=' + value.image + ' width="80" height="80"></img> </td>';
                     output += '<td>' + value.Quantity + '</td>';
                     output +='<td>' + value.Unit + '</td>';
                     output +='<td>' + value.Department+ '</td>';
